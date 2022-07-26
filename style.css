@@ -1,0 +1,237 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    /* background-color: aqua; */
+}
+
+.first-grid {
+    height: 300px;
+    width: 100%;
+    /* background-color: red; */
+}
+
+.second-grid {
+    height: 300px;
+    width: 100%;
+    /* background-color: blue; */
+    margin: 10px auto;
+}
+
+.third-grid {
+    height: 300px;
+    width: 100%;
+    /* background-color: blueviolet; */
+}
+
+p {
+    text-align: center;
+    text-transform: capitalize;
+    height: 20px;
+    background-color: whitesmoke;
+}
+
+.firstdiv {
+    height: 80Px;
+    width: 49%;
+    /* margin: 0px 20px; */
+    background-color: gray;
+    float: right;
+    margin: 0px 10px;
+}
+
+.secounddiv {
+    height: 80Px;
+    width: 49%;
+    /* margin: 0px 20px; */
+    background-color: blue;
+    margin: 0px 10px;
+}
+
+.sub-grid {
+    height: 200px;
+    width: 100%;
+    /* background-color: rgb(41, 198, 17); */
+}
+
+.sub-1 {
+    height: 100%;
+    width: 49%;
+    background-color: green;
+    /* margin: 10px; */
+    float: left;
+    margin: 5px 10px;
+}
+
+.sub-2 {
+    width: 24%;
+    height: 100%;
+    background-color: black;
+    float: left;
+    margin: 5px 1px;
+}
+
+.sub-3 {
+    width: 24%;
+    height: 100%;
+    background-color: blueviolet;
+    float: left;
+    margin: 5px 7px;
+}
+
+.secon-1 {
+    height: 260px;
+    width: 32%;
+    /* background-color: blueviolet; */
+    float: left;
+    margin: 10px;
+}
+
+.secon-2 {
+    height: 260px;
+    width: 32%;
+    background-color: teal;
+    float: left;
+    margin: 14px 5px;
+}
+
+.secon-3 {
+    height: 260px;
+    width: 32%;
+    /* background-color: rgb(46, 226, 43); */
+    float: left;
+    margin: 12px;
+}
+
+.sub-s-2 {
+    height: 200px;
+    width: 49%;
+    background-color: goldenrod;
+    float: left;
+    /* margin-bottom: 100px; */
+    margin: 2px;
+}
+
+.sub-s-3 {
+    height: 139px;
+    width: 49%;
+    background-color: brown;
+    margin: 2px;
+    /* float: left; */
+    /* margin-bottom: 100px; */
+    margin-top: 64px;
+}
+
+.sub-s-1 {
+    height: 60px;
+    width: 49%;
+    background-color: black;
+    float: left;
+    margin: 2px;
+    /* margin-bottom: 30px; */
+}
+
+.sub-s-4 {
+    width: 99%;
+    height: 60px;
+    background-color: teal;
+    margin: 3px auto;
+}
+
+.sub-s-2-1 {
+    height: 55px;
+    width: 99%;
+    background-color: darkblue;
+    margin: 2px;
+}
+
+.sub-s-2-2 {
+    height: 136px;
+    width: 99%;
+    background-color: skyblue;
+    margin: 2px;
+}
+
+.sub-s-2-3 {
+    height: 59px;
+    width: 49%;
+    background-color: rgb(139, 0, 113);
+    margin: 2px;
+    float: right;
+}
+
+.sub-s-2-4 {
+    height: 59px;
+    width: 49%;
+    background-color: darkblue;
+    margin: 4px 2px;
+}
+
+.sagor-1 {
+    height: 280px;
+    width: 49%;
+    /* background-color: tomato; */
+    float: right;
+    margin: 0px 10px;
+}
+
+.sagor-2 {
+    width: 49%;
+    height: 280px;
+    background-color: rgb(159, 33, 11);
+    margin: 0px 10px;
+}
+
+.last {
+    height: 50px;
+    width: 98%;
+    margin: 5px auto;
+    /* background-color: gray; */
+}
+
+.last p {
+    text-align: right;
+    margin: 10px;
+}
+
+.sagro-3 {
+    height: 80px;
+    width: 99%;
+    background-color: teal;
+    margin: 0px 5px;
+}
+
+.sagro-4 {
+    height: 95px;
+    width: 100%;
+    background-color: brown;
+    /* margin-top: 100px; */
+    /* float: right; */
+    /* margin: 5px; */
+}
+
+.sagor-5 {
+    height: 95px;
+    width: 100%;
+    /* float: right; */
+    background-color: rgb(224, 20, 20);
+    margin: 5px 0px;
+}
+
+.sagor-6 {
+    width: 49%;
+    height: 195px;
+    /* background-color: aqua; */
+    float: right;
+    margin: 5px;
+}
+
+.sagor-7 {
+    height: 195px;
+    width: 49%;
+    background-color: aqua;
+    margin: 5px;
+}
